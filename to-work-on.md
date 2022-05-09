@@ -46,10 +46,17 @@ description: This page tells the feature in each model.
   * [ ] List of department + budget of academic year (show remaining budget)
   * [ ] Add / Update buddget of the department
   * [ ] Depending spending current academic / total spending
+* [ ] Inventory:
+  * [ ] Show inventory that past depreciation / isAsset
+  * [ ] List of inventory based on department / other criterion
 
 ### Purchasing:
 
-* [ ] Order Request: Only show when finance is already approved
+* [ ] Order Request:&#x20;
+  * [ ] Only show when finance is already approved
+  * [ ] list order requests
+  * [ ] Comment
+  * [ ] Change order status to => purchased / buying
 
 ### Inventory:
 

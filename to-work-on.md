@@ -12,6 +12,7 @@ description: This page tells the feature in each model.
   * [x] Update department
   * [ ] add locations to the department /&#x20;
   * [ ] add users to the department (multiple users)
+  * [ ] create a short\_code with model
 * [ ] Location:&#x20;
   * [x] list of location
   * [ ] create a new location needs fixing

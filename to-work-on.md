@@ -21,6 +21,12 @@ description: This page tells the feature in each model.
   * [ ] List of users with detail
   * [ ] Add user to department / location
 
+### Customer
+
+* [ ] Order Request:
+  * [ ] Create an order request for someone else
+  * [ ] Create your own order request
+
 ### Dean:
 
 * [ ] Order Request:&#x20;

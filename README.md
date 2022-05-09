@@ -1,8 +1,8 @@
 # Welcome!
 
-## Welcome to MyAPI
+## Welcome to SPI Docs
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+Here you will find the API interaction / fetching / crud operation request.
 
 ## Want to jump right in?
 

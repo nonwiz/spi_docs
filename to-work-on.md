@@ -14,7 +14,7 @@ description: This page tells the feature in each model.
   * [ ] create a new location needs fixing
 * [ ] User:&#x20;
   * [ ] List of users with detail
-  * [ ] Update users department / room
+  * [ ] Add user to department / location
 
 ### Dean:
 

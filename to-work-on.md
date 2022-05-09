@@ -49,6 +49,7 @@ description: This page tells the feature in each model.
 * [ ] Inventory:
   * [ ] Show inventory that past depreciation / isAsset
   * [ ] List of inventory based on department / other criterion
+* [ ] Show list of log
 
 ### Purchasing:
 
@@ -67,4 +68,5 @@ description: This page tells the feature in each model.
 * [ ] Location:
   * [ ] List of items based on the location / department
 * [ ] Show depreciating items
+* [ ] Show list of logs
 

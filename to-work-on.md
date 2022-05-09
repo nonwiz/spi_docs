@@ -26,6 +26,9 @@ description: This page tells the feature in each model.
 * [ ] Order Request:
   * [ ] Create an order request for someone else
   * [ ] Create your own order request
+* [ ] Inventory:
+  * [ ] See list of items that are responsible
+  * [ ] See the depreciated items
 
 ### Dean:
 

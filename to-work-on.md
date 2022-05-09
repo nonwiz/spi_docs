@@ -7,10 +7,13 @@ description: This page tells the feature in each model.
 ### Admin
 
 * [ ] Department:&#x20;
-  * [ ] list of department
-  * [ ] add locations to the department / add users to the department (multiple users)
+  * [x] list of department
+  * [x] Create department&#x20;
+  * [x] Update department
+  * [ ] add locations to the department /&#x20;
+  * [ ] add users to the department (multiple users)
 * [ ] Location:&#x20;
-  * [ ] list of location
+  * [x] list of location
   * [ ] create a new location needs fixing
 * [ ] User:&#x20;
   * [ ] List of users with detail
@@ -34,7 +37,15 @@ description: This page tells the feature in each model.
 
 ### Finance:
 
-* [ ] Order Request: Only show when Dean is already approved
+* [ ] Order Request:&#x20;
+  * [ ] Only show when Dean is already approved
+  * [ ] list order requests base on department
+  * [ ] approve / reject order
+  * [ ] comment on the order request
+* [ ] Department:
+  * [ ] List of department + budget of academic year (show remaining budget)
+  * [ ] Add / Update buddget of the department
+  * [ ] Depending spending current academic / total spending
 
 ### Purchasing:
 

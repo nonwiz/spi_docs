@@ -28,17 +28,17 @@ description: This page tells the feature in each model.
   * [x] Create your own order request
   * [ ] Add purchase\_number when price exceed certain amount.
 * [ ] Inventory:
-  * [ ] See list of items that are responsible
+  * [x] See list of items that are responsible
   * [ ] See the depreciated items
 
 ### Dean:
 
 * [ ] Order Request:&#x20;
   * [x] Make order request for someone else or maybe for the location is better.
-  * [ ] list of orders that requested by the department's customer or employee
+  * [x] list of orders that requested by the department's customer or employee
   * [ ] Approve / Reject employee request
-  * [ ] Comment:
-    * [ ] Add / Delete comment or message
+  * [x] Comment:
+    * [x] Add / Delete comment or message
     * [ ] Send an email of the comment
 * [ ] Department Overview:
   * [ ] See depreciated items

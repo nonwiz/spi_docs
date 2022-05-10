@@ -6,18 +6,29 @@ description: This page tells the feature in each model.
 
 ### Admin
 
-* [ ] Department:&#x20;
+* [x] Department:&#x20;
   * [x] list of department
   * [x] Create department&#x20;
   * [x] Update department
-  * [ ] add locations to the department /&#x20;
-  * [ ] add users to the department (multiple users)
-* [ ] Location:&#x20;
+  * [x] add locations to the department /&#x20;
+  * [ ] ~~add users to the department (multiple users)~~
+  * [ ] ~~create a short\_code with model~~
+* [x] Location:&#x20;
   * [x] list of location
-  * [ ] create a new location needs fixing
-* [ ] User:&#x20;
-  * [ ] List of users with detail
-  * [ ] Add user to department / location
+  * [x] create a new location needs fixing
+  * [x] update location detail
+* [x] User:&#x20;
+  * [x] List of users with detail
+  * [x] Add user to department / location
+
+### Customer
+
+* [ ] Order Request:
+  * [ ] Create an order request for someone else
+  * [ ] Create your own order request
+* [ ] Inventory:
+  * [ ] See list of items that are responsible
+  * [ ] See the depreciated items
 
 ### Dean:
 

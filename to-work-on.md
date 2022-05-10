@@ -24,8 +24,9 @@ description: This page tells the feature in each model.
 ### Customer
 
 * [ ] Order Request:
-  * [ ] Create an order request for someone else
-  * [ ] Create your own order request
+  * [x] Create an order request for someone else
+  * [x] Create your own order request
+  * [ ] Add purchase\_number when price exceed certain amount.
 * [ ] Inventory:
   * [ ] See list of items that are responsible
   * [ ] See the depreciated items
@@ -33,7 +34,7 @@ description: This page tells the feature in each model.
 ### Dean:
 
 * [ ] Order Request:&#x20;
-  * [ ] Make order request for someone else or maybe for the location is better.
+  * [x] Make order request for someone else or maybe for the location is better.
   * [ ] list of orders that requested by the department's customer or employee
   * [ ] Approve / Reject employee request
   * [ ] Comment:

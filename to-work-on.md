@@ -27,6 +27,7 @@ description: This page tells the feature in each model.
   * [x] Create an order request for someone else
   * [x] Create your own order request
   * [ ] Add purchase\_number when price exceed certain amount.
+  * [x] Cancel Order Request
 * [ ] Inventory:
   * [x] See list of items that are responsible
   * [ ] See the depreciated items
@@ -70,6 +71,7 @@ description: This page tells the feature in each model.
   * [ ] list order requests
   * [ ] Comment
   * [ ] Change order status to => purchased / buying
+  * [x] marked as purchased
 
 ### Inventory:
 

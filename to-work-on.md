@@ -37,7 +37,7 @@ description: This page tells the feature in each model.
 * [ ] Order Request:&#x20;
   * [x] Make order request for someone else or maybe for the location is better.
   * [x] list of orders that requested by the department's customer or employee
-  * [ ] Approve / Reject employee request
+  * [x] Approve / Reject employee request
   * [x] Comment:
     * [x] Add / Delete comment or message
     * [ ] Send an email of the comment
@@ -76,11 +76,11 @@ description: This page tells the feature in each model.
 ### Inventory:
 
 * [ ] CodeInfo: CRUD Operation
-* [ ] CRUD Order Types&#x20;
-* [ ] See the items relocation request and can approve&#x20;
+* [x] CRUD Order Types&#x20;
+* [x] See the items relocation request and can approve&#x20;
 * [ ] Import / Export items
-* [ ] Location:
-  * [ ] List of items based on the location / department
-* [ ] Show depreciating items
+* [x] Location:
+  * [x] List of items based on the location / department
+* [x] Show depreciating items
 * [ ] Show list of logs
 
